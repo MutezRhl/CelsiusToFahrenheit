@@ -10,7 +10,7 @@ public class CelsiusToFahrenheit {
        
         Scanner k=new Scanner(System.in);
         
-        System.out.println("Please select which degree you to convert to the other.. ");
+        System.out.println("Please select what you want to convert.. ");
         System.out.println("1-Celsius to Fehrenheit");
         System.out.println("2-Fehrenheit to Celsius");
         System.out.print("Write your answare here ");
